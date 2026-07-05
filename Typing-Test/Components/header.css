@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1em;
+}
+.personal-best{
+    display: flex;
+    justify-content: start;
+    gap: 1em;
+}
+.personal-best p {
+    color: hsl(240, 1%, 59%);
+    font-size: 14px;
+}
+.personal-best img{
+    width: 26px;
+    height: auto;
+}

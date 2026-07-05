@@ -1,0 +1,12 @@
+button{
+    background-color: hsl(0, 0%, 21%);
+    display: flex;
+    gap: .5em;
+    padding: 7px 15px;
+    font-weight: 500;
+    border: none;
+}
+button img{
+    width: 10px;
+    height: auto;
+}

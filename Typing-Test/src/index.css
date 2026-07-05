@@ -1,0 +1,8 @@
+body{
+   background-color:  hsl(0, 0%, 7%);
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   padding: 2em;
+   font-family: 'Sora', sans-serif;
+}

@@ -1,0 +1,8 @@
+.dashboard{
+    display: flex;
+    justify-content: space-between;
+    color: hsl(240, 1%, 59%);
+    margin-top: 1em;
+    padding-bottom: 1em;
+    border-bottom: 0.5px solid hsl(240, 1%, 59%);
+}
